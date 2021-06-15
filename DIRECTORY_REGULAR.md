@@ -167,4 +167,5 @@
 | InfiniteLabs | AWS (2C/4Gb/128GB) | G5EBAxmaIPXSsSxMuxEwT7K1tl9R05wB+t5hCrcZ6Wc= | enode://468d389d19b1fe09fa42e2e25330802421566a2e43d85f5520090b1b095861f028cbeba3c5e7b08f620b8cf1627c3c70780990178bc9e7f338d552e84193b5b1@18.184.68.119:21000?discport=0 |
 | WiseSecurityGlobal | Self Hosted (2C/4Gb/100GB) | | node://47dd1dc47fb8eea559f81a9a93ec02e1423deca829f2b25884243a7c0d412a76974c7c01bf65e33c4cd0a9a663d148f1de6b3d381f872dbffe86034f68bdb352@15.236.10.89:21000?discport=0 |
 | S&M Services | Azure (4C/16Gb/1100Gb) | SEHT16itcrWWxisKt09qvfIMXtQrBjNTL5ON+/tlTDw= | "enode://bf19be6ab080fb6ca4eca78a270699193115114abd1eb9a279da6a86c1ab7543dc4341632b8f4bd9b1ac0c62cd43f9ca86136b0304e3a164ae4f1f6eac33cf12@20.71.117.227:21000?discport=0" |
+| Universidad de Jaén | Self Hosted (4C/8Gb/100GB) | | enode://a63cd807461af711aaf927473de99989267b14ca0eea9e37dca190abad7097cbfaff2cda1bb5c68046c1ad15deca075e7eb561969dd12a258bebe576b5b495b0@150.214.178.8:21000?discport=0 |
 * **Clave private for**: se extrae del fichero `~/alastria/data/constellation/keystore/node.pub`.
